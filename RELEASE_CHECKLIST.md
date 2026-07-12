@@ -5,7 +5,7 @@
 - 保持 `public beta`
 - 正式支持入口只写 CET-4/6 考纲 PDF（2016 年修订版）
 - 不把其他来源词表当成正式能力宣传
-- 安装方式以 `npx skills add https://github.com/1xiaoooo/english-vocabulary-skills --skill CET --yes --global` 为主
+- 安装方式以 `npx skills add https://github.com/Eliott-lzh0610/english-vocabulary-skills --skill CET --yes --global` 为主
 
 ## 发布前最好再亲自确认一次
 
