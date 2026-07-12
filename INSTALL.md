@@ -7,13 +7,13 @@
 推荐全局安装：
 
 ```bash
-npx skills add https://github.com/1xiaoooo/english-vocabulary-skills --skill CET --yes --global
+npx skills add https://github.com/Eliott-lzh0610/english-vocabulary-skills --skill CET --yes --global
 ```
 
 如果你只想安装到当前项目，可以去掉 `--global`：
 
 ```bash
-npx skills add https://github.com/1xiaoooo/english-vocabulary-skills --skill CET --yes
+npx skills add https://github.com/Eliott-lzh0610/english-vocabulary-skills --skill CET --yes
 ```
 
 安装完成后，重启 Codex / Claude Code，让新 skill 生效。
